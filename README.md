@@ -11,6 +11,13 @@ The analysis focuses on:
 - The impact of premiumization and digital-first operations on fan accessibility
 - The tension between short-term investor returns and long-term league sustainability
 
+## Key Findings
+- Private equity provides the capital needed to invest in media production, digital platforms, premium stadium inventory, and fan-data systems.
+- Investor preferences for recurring, predictable, and scalable revenue encourage MLS to pursue centralized media rights, global sponsorships, subscription products, and dynamic pricing.
+- MLS’s single-entity structure makes it easier to standardize commercial assets across the league.
+- Commercial modernization can create barriers for fans through higher ticket prices, premium seating, subscription-only broadcasts, mobile ticketing, and cashless stadium operations.
+- PE-backed growth can expand MLS’s global reach, but an excessive focus on short-term returns may weaken the local and community-oriented identity that helped the league develop.
+
 ## Objectives
 - Compare MLS’s commercial model before and after increased private equity involvement
 - Explain how private equity capital and valuation priorities influence league strategy
